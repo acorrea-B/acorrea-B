@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Janier Alejandro Banguera Correa
 - 👀 I’m interested in python, vue js, aws, serverless, graphql, gitflow
 - 🌱 I’m currently learning vue js
-- 💞️ I’m looking to collaborate on Namtrikdev.sas
+- 💞️ I’m looking to collaborate on TPAGA.sas
 - 📫 How to reach me, acorrea-B
 
 <!---
